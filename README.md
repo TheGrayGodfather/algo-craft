@@ -1,2 +1,3 @@
-# algo-craft
-AlgoCraft: An altimate codeing platform.
+# ALGOCRAFT
+
+algocraft: an ultimate coding platform.
